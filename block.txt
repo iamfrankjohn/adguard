@@ -4,3 +4,17 @@ messenger.com
 graph.facebook.com
 m.facebook.com
 web.facebook.com
+staticxx.facebook.com
+connect.facebook.net
+scontent.xx.fbcdn.net
+video.xx.fbcdn.net
+upload.facebook.com
+fbcdn.net
+facebook.net
+messenger.com
+m.me
+*.facebook.com
+*.fbcdn.net
+*.messenger.com
+*.m.facebook.com
+*.scontent.xx.fbcdn.net
