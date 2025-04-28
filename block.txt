@@ -18,6 +18,16 @@ m.me
 *.messenger.com
 *.m.facebook.com
 *.scontent.xx.fbcdn.net
+instagram.com
+www.instagram.com
+i.instagram.com
+graph.instagram.com
+*.instagram.com
+*.i.instagram.com
+*.instagramcdn.com
+instagramcdn.com
+scontent.instagram.com
+
 
 tiktok.com
 *.tiktok.com
