@@ -27,7 +27,15 @@ graph.instagram.com
 *.instagramcdn.com
 instagramcdn.com
 scontent.instagram.com
-
+*.fb.com
+*.scontent.xx.fbcdn.net
+*.graph.facebook.com
+*.i.instagram.com
+*.scontent.instagram.com
+*.p16.tiktok.com
+*.ibytedtos.com
+*.youtubei.googleapis.com
+*.ytimg.com
 
 tiktok.com
 *.tiktok.com
