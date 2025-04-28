@@ -49,6 +49,10 @@ tiktokapi.com
 *.tiktokcdn.com
 *.tiktokv.com
 *.m.tiktok.com
+*.tiktoklive.com
+*.tiktokv.com
+*.ibytedtos.com
+live.tiktok.com
 
 youtube.com
 *.youtube.com
