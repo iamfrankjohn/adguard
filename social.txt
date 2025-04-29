@@ -1,3 +1,4 @@
+#add
 facebook.com
 fb.com
 messenger.com
@@ -23,44 +24,22 @@ m.me
 *.video.xx.fbcdn.net
 *.upload.facebook.com
 
-# Additional domains for Messenger app (to block access)
+# Additional Facebook & Messenger domains
 *.messenger.com
 *.facebookmail.com
 *.messenger-api.com
 *.messenger-tls.com
 *.messengercdn.com
-*.fbcdn.net
-*.fb.com
-*.m.me
-*.messenger.com
-*.fbcdn.net
-*.video.xx.fbcdn.net
-
-# Additional Facebook-related domains (to block app functionality)
+*.fbsbx.com
 *.fbexternal.com
-*.facebook.com
-*.facebookmail.com
-*.fbsbx.com
 *.facebookcorewwwi.onion
-*.messenger.com
-*.fbcdn.net
-*.facebook.net
-*.akamaihd.net
-*.static.ak.fbcdn.net
-*.messenger.com
 *.facebookcorewwwi.com
-*.fbcdn.net
-*.facebook.com
-*.akamaihd.net
-*.fbcdn.net
-*.fbsbx.com
-*.fbcdn.net
-*.ak.facebook.com
 *.ads.facebook.com
-*.facebook.net
-*.facebook.com
-*.cdninstagram.com
+*.static.ak.fbcdn.net
 *.scontent.facebook.com
+*.ak.facebook.com
+*.cdninstagram.com
+*.akamaihd.net
 
 instagram.com
 www.instagram.com
@@ -71,10 +50,8 @@ graph.instagram.com
 *.instagramcdn.com
 instagramcdn.com
 scontent.instagram.com
-*.i.instagram.com
 *.scontent.instagram.com
-*.instagram.com
-*.instagramcdn.com
+*.cdninstagram.com
 
 whatsapp.com
 web.whatsapp.com
@@ -91,7 +68,6 @@ p16-tiktok-va.ibyteimg.com
 tiktokcdn.com
 tiktokv.com
 tiktokapi.com
-*.tiktok.com
 *.tiktokcdn.com
 *.tiktokv.com
 *.m.tiktok.com
@@ -99,17 +75,19 @@ tiktokapi.com
 *.ibytedtos.com
 live.tiktok.com
 *.p16.tiktok.com
-*.ibytedtos.com
 *.tiktok.co
 *.tiktokapi.com
-*.tiktokv.com
-*.tiktoklive.com
-*.tiktokcdn.com
 *.m.tiktoklive.com
 m.tiktoklive.com
 api2.m.tiktok.com
 *.p16.muscdn.com
 *.tikcdn.net
+*.tiktokrow-cdn.com
+tiktokrow-cdn.com
+*.tiktokcdn-us.com
+*.tiktokcdn-eu.com
+*.tiktokcdn-asia.com
+*.tiktokv-cdn.com
 
 youtube.com
 *.youtube.com
@@ -119,9 +97,6 @@ youtubei.googleapis.com
 *.youtubei.googleapis.com
 ytimg.com
 *.ytimg.com
-*.youtube.com
-*.ytimg.com
-*.youtubei.googleapis.com
 
 twitter.com
 *.twitter.com
