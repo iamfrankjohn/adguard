@@ -23,6 +23,45 @@ m.me
 *.video.xx.fbcdn.net
 *.upload.facebook.com
 
+# Additional domains for Messenger app (to block access)
+*.messenger.com
+*.facebookmail.com
+*.messenger-api.com
+*.messenger-tls.com
+*.messengercdn.com
+*.fbcdn.net
+*.fb.com
+*.m.me
+*.messenger.com
+*.fbcdn.net
+*.video.xx.fbcdn.net
+
+# Additional Facebook-related domains (to block app functionality)
+*.fbexternal.com
+*.facebook.com
+*.facebookmail.com
+*.fbsbx.com
+*.facebookcorewwwi.onion
+*.messenger.com
+*.fbcdn.net
+*.facebook.net
+*.akamaihd.net
+*.static.ak.fbcdn.net
+*.messenger.com
+*.facebookcorewwwi.com
+*.fbcdn.net
+*.facebook.com
+*.akamaihd.net
+*.fbcdn.net
+*.fbsbx.com
+*.fbcdn.net
+*.ak.facebook.com
+*.ads.facebook.com
+*.facebook.net
+*.facebook.com
+*.cdninstagram.com
+*.scontent.facebook.com
+
 instagram.com
 www.instagram.com
 i.instagram.com
