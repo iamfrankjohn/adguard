@@ -1,5 +1,3 @@
-# Creating the blocklist content
-blocklist_content = """
 facebook.com
 fb.com
 messenger.com
@@ -159,13 +157,3 @@ vimeo.com
 *.icloud.com
 *.akamaized.net
 *.akamai.net
-"""
-
-# Saving the blocklist content to block.txt file
-file_path = "/mnt/data/block.txt"
-
-with open(file_path, "w") as file:
-    file.write(blocklist_content)
-
-file_path  # Returning the file path to the generated blocklist
-
