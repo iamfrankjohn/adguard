@@ -16,6 +16,8 @@
 127.0.0.1 sss.gov.ph
 127.0.0.1 employer.sss.gov.ph
 127.0.0.1 www.employer.sss.gov.ph
+127.0.0.1 sso.sss.gov.ph
+127.0.0.1 www.sso.sss.gov.ph
 127.0.0.1 www.pagibigfund.gov.ph
 127.0.0.1 www.gsis.gov.ph
 127.0.0.1 www.ltfrb.gov.ph
