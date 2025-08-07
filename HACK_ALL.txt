@@ -1,0 +1,65 @@
+127.0.0.1 gov.ph
+127.0.0.1 www.gov.ph
+
+# Core Agencies
+127.0.0.1 bir.gov.ph
+127.0.0.1 philhealth.gov.ph
+127.0.0.1 sss.gov.ph
+127.0.0.1 employer.sss.gov.ph
+127.0.0.1 sso.sss.gov.ph
+127.0.0.1 pagibigfund.gov.ph
+127.0.0.1 psa.gov.ph
+127.0.0.1 psahelpline.gov.ph
+
+127.0.0.1 denr.gov.ph
+127.0.0.1 dpwh.gov.ph
+127.0.0.1 dswd.gov.ph
+127.0.0.1 nal.gov.ph
+
+127.0.0.1 dti.gov.ph
+127.0.0.1 boi.gov.ph
+127.0.0.1 ipophil.gov.ph
+127.0.0.1 sec.gov.ph
+
+127.0.0.1 neda.gov.ph
+127.0.0.1 dbm.gov.ph
+127.0.0.1 doa.gov.ph
+127.0.0.1 da.gov.ph
+
+127.0.0.1 deped.gov.ph
+127.0.0.1 doh.gov.ph
+127.0.0.1 tesda.gov.ph
+127.0.0.1 iwu.gov.ph
+
+127.0.0.1 nbi.gov.ph
+127.0.0.1 customs.gov.ph
+127.0.0.1 bsp.gov.ph
+127.0.0.1 nta.gov.ph
+
+# Regulation & Oversight
+127.0.0.1 pnp.gov.ph
+127.0.0.1 ntc.gov.ph
+127.0.0.1 privacy.gov.ph
+127.0.0.1 cicc.gov.ph
+
+127.0.0.1 lto.gov.ph
+127.0.0.1 ltfrb.gov.ph
+127.0.0.1 cab.gov.ph
+
+127.0.0.1 psa.gov.ph
+127.0.0.1 pnp.gov.ph
+
+# Oversight agencies & commissions
+127.0.0.1 mmp.gov.ph
+127.0.0.1 chd.gov.ph
+127.0.0.1 pwc.gov.ph
+127.0.0.1 ncca.gov.ph
+127.0.0.1 privacy.gov.ph
+
+# E‑government & procurement
+127.0.0.1 gppb.gov.ph
+127.0.0.1 ppp.gov.ph
+127.0.0.1 gov.ph
+127.0.0.1 pra.gov.ph
+127.0.0.1 sbma.gov.ph
+127.0.0.1 peza.gov.ph
