@@ -1,0 +1,16 @@
+||anydesk.com^
+||www.anydesk.com^
+||download.anydesk.com^
+||relay.anydesk.com^
+||discovery.anydesk.com^
+||connect.anydesk.com^
+||ad.anydesk.com^
+||cdn.anydesk.com^
+||updates.anydesk.com^
+||update.anydesk.com^
+||telemetry.anydesk.com^
+||lic.anydesk.com^
+||ws.anydesk.com^
+||backend.anydesk.com^
+||api.anydesk.com^
+||gateway.anydesk.com^
